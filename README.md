@@ -14,21 +14,21 @@ This Python project randomly selects stock details from an API and displays vari
 
 **Usage:**
 Clone the repository:
-'''bash
+```bash
   git clone https://github.com/corder2233/Random_Indian_Stock_With_details.git
-'''
+```
 
 Install python3:
-'''bash
+```bash
   sudo apt install python3
-'''
-
+```
 Navigate to the project directory:
-'''bash
-  cd Random_Indian_Stock_With_details
-'''
+```bash
+  cd my-project
+```
 
 Run the project:
-'''bash 
+```bash
   python3 get_random_stock.py
-'''
+```
+
